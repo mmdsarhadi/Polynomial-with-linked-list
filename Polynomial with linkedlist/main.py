@@ -1,3 +1,10 @@
+# Feel free contacting me via the following links:
+#   www.mmdw.ir
+#   https://github.com/mmdsarhadi
+#   https://www.instagram.com/0.mmd.0/"
+#   https://twitter.com/the_msra
+
+
 class Polynomial:
     class Node:
         def __init__(self, coef, exp, next=None):
